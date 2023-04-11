@@ -33,7 +33,7 @@
 <h2> <strong> Languages/Tools: </strong> </h2>
 <ul>
 <li><img src="https://www.java.com/en/"></li>
-<li><a href="https://www.java.com/en/"><img src="image destination"></a></li>
+<li><a href="https://www.java.com/en/"><img src="https://www.java.com/en/"></a></li>
 <li></li>
 </ul>
 

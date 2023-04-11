@@ -32,7 +32,7 @@
 
 <h2> <strong> Languages/Tools: </strong> </h2>
 <ul>
-<li></li>
+<li><img src="https://www.java.com/en/"></li>
 <li></li>
 <li></li>
 </ul>

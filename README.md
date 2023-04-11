@@ -33,7 +33,7 @@
 <h2> <strong> Languages/Tools: </strong> </h2>
 <ul>
 <li><img src="https://www.java.com/en/"></li>
-<li><a href="https://www.java.com/en/"><img src="https://www.java.com/en/"></a></li>
+<li><a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" widht=30 height=30></a></li>
 <li></li>
 </ul>
 

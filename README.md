@@ -6,9 +6,11 @@
 
 <h2> <strong> About me: </strong> </h2>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>🎓 4th Year Student in Department of Informatics, University of Piraeus.</li>
+<li>💻Junior Software Developer</li>
+<li>⭐Supporter of Object-Oriented Programming.Most of my projects are written in OOP languages, such as C#,Java and Python.</li>
+<li>☺Passionate about learning new skills</li>
+<li>🤝Always willing to collaborate</li>
 </ul>
 
 <h2> <strong> Favourite projects: </strong> </h2>
@@ -20,9 +22,12 @@
 
 <h2> <strong> Currently working on: </strong> </h2>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>👨‍💻backend software development</li>
+<li>🛢️DBMS projects</li>
+<li>🌐 (MVC) Web Applications</li>
+<li>🎮 Video Game Projects(C#)</li>
+<li>📱 Android Applications(Java)</li>
+<li>👩🏾‍🏫Educational desktop app(C#)</li>
 </ul>
 
 <h2> <strong> Languages/Tools: </strong> </h2>

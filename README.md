@@ -40,7 +40,7 @@
 </ul>
 
 <h2> <strong> Contact me: </strong> </h2>
-<ul>
+<ul>  
 <li></li>
 <li></li>
 <li></li>

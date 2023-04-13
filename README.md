@@ -35,7 +35,11 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" widht=50 height=50></a> <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" widht=50 height=50></a> <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" widht=50 height=50></a> <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=50 height=50></a> <a href=https://www.mathworks.com/products/matlab.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width=50 height=50></a>
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=50 height=50></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=50 height=50></a>
-
+<a href="https://www.w3schools.com/sql/"><img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" width=70 height=50></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width=50 height=50></a>
+<a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" width=50 height=50></a>
+<a href="https://www.postgresql.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-griQ0CskJ9dC5NwUhXghZgW-balDqCeCqIgI-WTwQ&s" width=50 height=50></a>
+<a href="https://sqlite.org/index.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2RWaYhBMD0Jlw5po92209ipQy8veMCd0fWaLqUGk&s" width=80 height=50></a>
 
 </ul>
 

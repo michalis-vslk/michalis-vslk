@@ -6,7 +6,8 @@
 
 <h2> <strong> About me: </strong> </h2>
 <ul>
-<li>🎓4th Year undergraduate Computer Science student at University of Piraeus.</li>
+<li>🎓Graduate Computer Science student at University of Piraeus.</li>
+<li>🎓Currently Postgraduate Student in Advanced Software Development Technologies(University of Piraeus).</li>
 <li>💻Junior Software Developer.</li>
 <li>⭐Supporter of Object-Oriented Programming.Most of my projects are written in OOP languages, such as C#,Java and Python.</li>
 <li>☺Passionate about learning new skills.</li>

@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Michael! 👋 </h1>
+<h1> Hi there, I'm Michael! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <p>   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=michalis-vslk&&show_icons=true&title_color=FF9933&icon_color=FF5833&text_color=F6FF33&bg_color=053847" width=360 /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis-vslk&" alt="michalis-vslk" width=460 /> </p>
 

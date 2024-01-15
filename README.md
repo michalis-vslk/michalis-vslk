@@ -19,9 +19,9 @@
 
 <h2> <strong> Favourite projects: </strong> </h2>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li><a href="https://github.com/michalis-vslk/Soft_tech_team5">Soft_tech_team5(web app)</a></li>
+<li><a href="https://github.com/michalis-vslk/MVC">MVC</a></li>
+<li><a href="https://github.com/michalis-vslk/SmartAlert">Smart Alert android app</a></li>
 </ul>
 
 <h2> <strong> Currently working on: </strong> </h2>

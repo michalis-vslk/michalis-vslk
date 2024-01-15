@@ -1,7 +1,8 @@
 <h1> Hi there, I'm Michael! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-<p>   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=michalis-vslk&&show_icons=true&title_color=FF9933&icon_color=FF5833&text_color=F6FF33&bg_color=053847" width=360 /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis-vslk&" alt="michalis-vslk" width=460 /> </p>
-<img src="https://camo.githubusercontent.com/c79c57c814e575c20f6f4a26b0e5cb54a2be6509b3ef1c5369d5666f09091911/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313138613239373766393732393965626465653262373662323164643534666163613437653264303830267269643d67697068792e6769662663743d67">
+<p> <img src="https://camo.githubusercontent.com/c79c57c814e575c20f6f4a26b0e5cb54a2be6509b3ef1c5369d5666f09091911/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313138613239373766393732393965626465653262373662323164643534666163613437653264303830267269643d67697068792e6769662663743d67">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=michalis-vslk&&show_icons=true&title_color=FF9933&icon_color=FF5833&text_color=F6FF33&bg_color=053847" width=360 /> </p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis-vslk&" alt="michalis-vslk" width=460 /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalis-vslk&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 

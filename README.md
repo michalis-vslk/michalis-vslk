@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Michael! 👋 </h1>
 
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=michalis-vslk&&show_icons=true&title_color=FF9933&icon_color=FF5833&text_color=F6FF33&bg_color=053847" width=380 /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis-vslk&color=009688" alt="michalis-vslk" width=460 />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=michalis-vslk&&show_icons=true&title_color=FF9933&icon_color=FF5833&text_color=F6FF33&bg_color=053847" width=370 /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis-vslk&color=009688" alt="michalis-vslk" width=460 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalis-vslk&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 

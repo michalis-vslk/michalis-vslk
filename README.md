@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Check+out+my+doings;Always+willing+to+collaborate!)](https://git.io/typing-svg) 
 
-<p> <img src="https://camo.githubusercontent.com/c79c57c814e575c20f6f4a26b0e5cb54a2be6509b3ef1c5369d5666f09091911/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313138613239373766393732393965626465653262373662323164643534666163613437653264303830267269643d67697068792e6769662663743d67">
+<p> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NlamNwdWRtZzZzdG93M2o3dnp2amVibWlhOGZpeXB5OXN4eDVxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=michalis-vslk&&show_icons=true&title_color=FF9933&icon_color=FF5833&text_color=F6FF33&bg_color=053847" width=360 /> </p>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis-vslk&" alt="michalis-vslk" width=460 /> </p>
 

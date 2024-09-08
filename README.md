@@ -62,10 +62,11 @@
 </ul>
 
 <h2> <strong> Contact me: </strong> </h2>
-<ul>  
-<a href="mailto:mixalisvslk22@gmail.com"><img src="https://camo.githubusercontent.com/89646a9ad39a51a8031d2ad24225cc6f15c7abfe5530a6513b26b4b652893ae2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37652f476d61696c5f69636f6e5f253238323032302532392e7376672f3132303070782d476d61696c5f69636f6e5f253238323032302532392e7376672e706e67" width=40 height=30></a>
+<p align="left">  
+<a href="mailto:mixalisvslk22@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width=40 height=30></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/michael-vasilakakis-915bb72b1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-vasilakakis-915bb72b1" width="40" height="30" /></a>
 
-</ul>
+</p>
 
 <!--
 **michalis-vslk/michalis-vslk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
 
 <p> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NlamNwdWRtZzZzdG93M2o3dnp2amVibWlhOGZpeXB5OXN4eDVxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=michalis-vslk&&show_icons=true&title_color=FF9933&icon_color=FF5833&text_color=F6FF33&bg_color=053847" width=360 /> </p>
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis-vslk&background=053847&ring=F6FF33&fire=F6FF33&currStreakLabel=F6FF33&sideNums=F6FF33&currStreakNum=F6FF33&sideLabels=F6FF33&dates=FF9933" alt="michalis-vslk" width=460 /> </p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis-vslk&background=053847&ring=FF9933&fire=FF9933&currStreakLabel=F6FF33&sideNums=F6FF33&currStreakNum=F6FF33&sideLabels=F6FF33&dates=FF9933" alt="michalis-vslk" width=460 /> </p>
 
 <h2> <strong> About me: </strong> </h2>
 <ul>
